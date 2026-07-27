@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ganeshk2846/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/ganeshk2846/DSA/tree/master/0048-rotate-image) |
 | [0152-maximum-product-subarray](https://github.com/ganeshk2846/DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/ganeshk2846/DSA/tree/master/0169-majority-element) |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ganeshk2846/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ganeshk2846/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
