@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ganeshk2846/DSA/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ganeshk2846/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0832-flipping-an-image](https://github.com/ganeshk2846/DSA/tree/master/0832-flipping-an-image) |
+| [0877-stone-game](https://github.com/ganeshk2846/DSA/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/ganeshk2846/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/ganeshk2846/DSA/tree/master/1095-find-in-mountain-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ganeshk2846/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ganeshk2846/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ganeshk2846/DSA/tree/master/0048-rotate-image) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ganeshk2846/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/ganeshk2846/DSA/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ganeshk2846/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ganeshk2846/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sorting
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ganeshk2846/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/ganeshk2846/DSA/tree/master/0152-maximum-product-subarray) |
+| [0877-stone-game](https://github.com/ganeshk2846/DSA/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -187,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/ganeshk2846/DSA/tree/master/1004-max-consecutive-ones-iii) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ganeshk2846/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
