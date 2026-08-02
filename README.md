@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ganeshk2846/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ganeshk2846/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ganeshk2846/DSA/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/ganeshk2846/DSA/tree/master/0238-product-of-array-except-self) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ganeshk2846/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0832-flipping-an-image](https://github.com/ganeshk2846/DSA/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/ganeshk2846/DSA/tree/master/0877-stone-game) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/ganeshk2846/DSA/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/ganeshk2846/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Game Theory
 |  |
