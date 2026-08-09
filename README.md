@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ganeshk2846/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ganeshk2846/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ganeshk2846/DSA/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/ganeshk2846/DSA/tree/master/0383-ransom-note) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ganeshk2846/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ganeshk2846/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/ganeshk2846/DSA/tree/master/3731-find-missing-elements) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ganeshk2846/DSA/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/ganeshk2846/DSA/tree/master/0383-ransom-note) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ganeshk2846/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ganeshk2846/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Matrix
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ganeshk2846/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ganeshk2846/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ganeshk2846/DSA/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/ganeshk2846/DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/ganeshk2846/DSA/tree/master/0392-is-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ganeshk2846/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ganeshk2846/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
