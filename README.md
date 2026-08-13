@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/ganeshk2846/DSA/tree/master/1095-find-in-mountain-array) |
 | [1140-stone-game-ii](https://github.com/ganeshk2846/DSA/tree/master/1140-stone-game-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ganeshk2846/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ganeshk2846/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ganeshk2846/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/ganeshk2846/DSA/tree/master/3731-find-missing-elements) |
 ## Math
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/ganeshk2846/DSA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ganeshk2846/DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/ganeshk2846/DSA/tree/master/0392-is-subsequence) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ganeshk2846/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ganeshk2846/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ganeshk2846/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ganeshk2846/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -263,4 +265,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/ganeshk2846/DSA/tree/master/1510-stone-game-iv) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ganeshk2846/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ganeshk2846/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
