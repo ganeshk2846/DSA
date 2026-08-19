@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ganeshk2846/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/ganeshk2846/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ganeshk2846/DSA/tree/master/1563-stone-game-v) |
+| [1952-three-divisors](https://github.com/ganeshk2846/DSA/tree/master/1952-three-divisors) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ganeshk2846/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ganeshk2846/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ganeshk2846/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/ganeshk2846/DSA/tree/master/1952-three-divisors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ganeshk2846/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Minimax
 |  |
@@ -304,4 +306,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ganeshk2846/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/ganeshk2846/DSA/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/ganeshk2846/DSA/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/ganeshk2846/DSA/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
