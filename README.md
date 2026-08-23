@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ganeshk2846/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/ganeshk2846/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ganeshk2846/DSA/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/ganeshk2846/DSA/tree/master/1927-sum-game) |
 | [1952-three-divisors](https://github.com/ganeshk2846/DSA/tree/master/1952-three-divisors) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ganeshk2846/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ganeshk2846/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/ganeshk2846/DSA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ganeshk2846/DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/ganeshk2846/DSA/tree/master/0392-is-subsequence) |
+| [1927-sum-game](https://github.com/ganeshk2846/DSA/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ganeshk2846/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ganeshk2846/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ganeshk2846/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ganeshk2846/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/ganeshk2846/DSA/tree/master/0134-gas-station) |
 | [1386-cinema-seat-allocation](https://github.com/ganeshk2846/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/ganeshk2846/DSA/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ganeshk2846/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ganeshk2846/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Combinatorics
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ganeshk2846/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/ganeshk2846/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ganeshk2846/DSA/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/ganeshk2846/DSA/tree/master/1927-sum-game) |
 ## Graph Theory
 |  |
 | ------- |
