@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ganeshk2846/DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ganeshk2846/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ganeshk2846/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/ganeshk2846/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/ganeshk2846/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ganeshk2846/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/ganeshk2846/DSA/tree/master/1510-stone-game-iv) |
@@ -423,4 +424,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ganeshk2846/DSA/tree/master/0148-sort-list) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/ganeshk2846/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
