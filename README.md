@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/ganeshk2846/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ganeshk2846/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ganeshk2846/DSA/tree/master/0112-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/ganeshk2846/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/ganeshk2846/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ganeshk2846/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ganeshk2846/DSA/tree/master/0112-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/ganeshk2846/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/ganeshk2846/DSA/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/ganeshk2846/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ganeshk2846/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ganeshk2846/DSA/tree/master/0112-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/ganeshk2846/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Interactive
 |  |
 | ------- |
@@ -432,4 +435,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ganeshk2846/DSA/tree/master/0836-rectangle-overlap) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/ganeshk2846/DSA/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
