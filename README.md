@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/ganeshk2846/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ganeshk2846/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/ganeshk2846/DSA/tree/master/1563-stone-game-v) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ganeshk2846/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/ganeshk2846/DSA/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ganeshk2846/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ganeshk2846/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/ganeshk2846/DSA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ganeshk2846/DSA/tree/master/0383-ransom-note) |
 | [1386-cinema-seat-allocation](https://github.com/ganeshk2846/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ganeshk2846/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ganeshk2846/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ganeshk2846/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ganeshk2846/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/ganeshk2846/DSA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ganeshk2846/DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/ganeshk2846/DSA/tree/master/0392-is-subsequence) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ganeshk2846/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/ganeshk2846/DSA/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ganeshk2846/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ganeshk2846/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
