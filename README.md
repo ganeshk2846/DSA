@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/ganeshk2846/DSA/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/ganeshk2846/DSA/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/ganeshk2846/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ganeshk2846/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1095-find-in-mountain-array](https://github.com/ganeshk2846/DSA/tree/master/1095-find-in-mountain-array) |
 | [1140-stone-game-ii](https://github.com/ganeshk2846/DSA/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/ganeshk2846/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/ganeshk2846/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ganeshk2846/DSA/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ganeshk2846/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ganeshk2846/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/ganeshk2846/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/ganeshk2846/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ganeshk2846/DSA/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ganeshk2846/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ganeshk2846/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/ganeshk2846/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Interactive
 |  |
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ganeshk2846/DSA/tree/master/0234-palindrome-linked-list) |
 | [0856-score-of-parentheses](https://github.com/ganeshk2846/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ganeshk2846/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ganeshk2846/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/ganeshk2846/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ganeshk2846/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ganeshk2846/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -482,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ganeshk2846/DSA/tree/master/0042-trapping-rain-water) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ganeshk2846/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Memoization
 |  |
 | ------- |
@@ -541,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ganeshk2846/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ganeshk2846/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ganeshk2846/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ganeshk2846/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Lifting
 |  |
 | ------- |
