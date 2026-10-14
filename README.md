@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ganeshk2846/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ganeshk2846/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/ganeshk2846/DSA/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/ganeshk2846/DSA/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ganeshk2846/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/ganeshk2846/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ganeshk2846/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ganeshk2846/DSA/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/ganeshk2846/DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/ganeshk2846/DSA/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/ganeshk2846/DSA/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/ganeshk2846/DSA/tree/master/0832-flipping-an-image) |
