@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ganeshk2846/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1095-find-in-mountain-array](https://github.com/ganeshk2846/DSA/tree/master/1095-find-in-mountain-array) |
 | [1140-stone-game-ii](https://github.com/ganeshk2846/DSA/tree/master/1140-stone-game-ii) |
+| [1267-count-servers-that-communicate](https://github.com/ganeshk2846/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1386-cinema-seat-allocation](https://github.com/ganeshk2846/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ganeshk2846/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/ganeshk2846/DSA/tree/master/1563-stone-game-v) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ganeshk2846/DSA/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/ganeshk2846/DSA/tree/master/0383-ransom-note) |
+| [1267-count-servers-that-communicate](https://github.com/ganeshk2846/DSA/tree/master/1267-count-servers-that-communicate) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ganeshk2846/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ganeshk2846/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Matrix
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ganeshk2846/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ganeshk2846/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0832-flipping-an-image](https://github.com/ganeshk2846/DSA/tree/master/0832-flipping-an-image) |
+| [1267-count-servers-that-communicate](https://github.com/ganeshk2846/DSA/tree/master/1267-count-servers-that-communicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ganeshk2846/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ganeshk2846/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ganeshk2846/DSA/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/ganeshk2846/DSA/tree/master/1267-count-servers-that-communicate) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/ganeshk2846/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/ganeshk2846/DSA/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -334,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/ganeshk2846/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ganeshk2846/DSA/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/ganeshk2846/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [1267-count-servers-that-communicate](https://github.com/ganeshk2846/DSA/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/ganeshk2846/DSA/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -573,4 +578,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ganeshk2846/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/ganeshk2846/DSA/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
